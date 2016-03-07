@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LocationUpdaterSample</string>
+    <string name="default_msg_number_updates">0 update received</string>
+    <string name="n_a">N/A</string>
+</resources>
